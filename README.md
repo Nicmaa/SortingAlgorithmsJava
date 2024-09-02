@@ -36,12 +36,12 @@ This Java project benchmarks various sorting algorithms by measuring their execu
 ## Usage
 After running the project, you will be prompted to select a sorting algorithm. You can choose from the following options:
 
-selectionsort
-insertsort
-mergesort
-bubblesort
-quicksort
-arrays
+- selectionsort
+- insertsort
+- mergesort
+- bubblesort
+- quicksort
+- arrays
 You will also need to specify the input size range and the step between sizes.
 
 Example usage:
@@ -55,19 +55,19 @@ Step:
 > 1000
 
 QUICK SORT
-
+```bash
 SIZE:   TIME(ms)    TIME(s):
 1000    2           0.002
 2000    4           0.004
 ...
-
+```
 ## Algorithms Included
-Selection Sort: A simple comparison-based sorting algorithm.
-Insertion Sort: Builds the final sorted array one item at a time.
-Merge Sort: A divide-and-conquer algorithm that splits the array into halves.
-Bubble Sort: A simple comparison-based algorithm that repeatedly steps through the list.
-Quick Sort: A highly efficient sorting algorithm that uses partitioning.
-Arrays.sort(): Java’s built-in sort, typically implemented as a dual-pivot quicksort.
+- Selection Sort: A simple comparison-based sorting algorithm.
+- Insertion Sort: Builds the final sorted array one item at a time.
+- Merge Sort: A divide-and-conquer algorithm that splits the array into halves.
+- Bubble Sort: A simple comparison-based algorithm that repeatedly steps through the list.
+- Quick Sort: A highly efficient sorting algorithm that uses partitioning.
+- Arrays.sort(): Java’s built-in sort, typically implemented as a dual-pivot quicksort.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
