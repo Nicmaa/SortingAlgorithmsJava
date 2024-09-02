@@ -45,6 +45,7 @@ After running the project, you will be prompted to select a sorting algorithm. Y
 You will also need to specify the input size range and the step between sizes.
 
 Example usage:
+```bash
 Which sorting algorithm would you like to use? [or type exit]
 > quicksort
 First element: 
@@ -53,7 +54,7 @@ Last element:
 > 10000
 Step: 
 > 1000
-
+```
 QUICK SORT
 ```bash
 SIZE:   TIME(ms)    TIME(s):
