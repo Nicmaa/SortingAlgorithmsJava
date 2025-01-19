@@ -22,8 +22,8 @@ This Java project benchmarks various sorting algorithms by measuring their execu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SortingAlgorithmsBenchmark.git
-   cd SortingAlgorithmsBenchmark
+   git clone https://github.com/yourusername/SortingAlgorithmsJava.git
+   cd SortingAlgorithmsJava
    ```
 2. Compile the project: You can compile the project using javac:
   ```bash
